@@ -13,7 +13,7 @@ public class FighterSimpleMotion : MonoBehaviour {
     // Rotation
     private float rotationSpeed = 1f;
     private float horizontalRotation = 45;
-    private float verticalRotation = 35;
+    private float verticalRotation = 45;
     private Vector3 rotationVector = Vector3.zero;
 
 	void Update () {
